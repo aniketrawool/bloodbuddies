@@ -1,0 +1,16 @@
+.container-fluid-top {
+    height: 40vh;
+    color: whitesmoke;
+    background: #c62828;
+}
+
+
+/* .container-fluid-bottom {} */
+
+.login-card {
+    width: 35%;
+    height: 140%;
+    box-shadow: 1px 1px 12px 0px black;
+    margin: auto;
+    top: 10%;
+}
